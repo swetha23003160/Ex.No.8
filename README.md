@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date : 24/09/25
+# Reg. No. 212223240129
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -48,8 +48,31 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+# Sample Prompts & Outputs
+### Prompt 1 – Simple
+
+"Anime version of this portrait, keeping the same pose and facial expression."
+Output → Basic anime filter applied, recognizable but generic.
+
+### Prompt 2 – Detailed Style
+
+"Transform this portrait into a detailed anime illustration, same pose and expression. Retain hairstyle and clothing, adapt features into anime proportions with large expressive eyes and smooth shading. Vibrant colors and glowing background."
+Output → Clear anime features, expression preserved, artistic improvements visible.
+
+### Prompt 3 – Advanced with Negatives
+
+"Recreate this realistic portrait in modern digital anime style. Keep identical pose, facial expression, hairstyle, and outfit. Use clean line art, cel-shading, soft gradients, glowing pastel background. Avoid realism, distortions, extra limbs, or changing the expression."
+Output → Highly stylized anime artwork, faithful to reference identity and pose, with professional finish.
+
+
+
+# Diagram:
+
+ <img width="1280" height="1006" alt="image" src="https://github.com/user-attachments/assets/7150e64e-2a8b-4307-98e2-4c2f77aa0ae9" />
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
+ 
+# Result:
+By refining prompts step by step, the AI was successfully guided to generate an anime-styled version of the portrait, preserving expression and pose while applying stylistic elements like anime line art, expressive eyes, and vibrant shading. This exploration shows that structured prompt engineering + iterative refinement yields more controlled and consistent results.
 
-
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
